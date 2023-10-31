@@ -1,0 +1,6 @@
+order
+
+1. changeAllNames.py
+2.fileMovingToNewDataset.py
+3.classIDchange.py
+4.finalAssembly.py
